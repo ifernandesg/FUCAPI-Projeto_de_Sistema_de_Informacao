@@ -1,5 +1,5 @@
 # Ferramentas
-Python https://www.python.org/downloads/release/python-3132/
+Python 3.12.3 https://www.python.org/downloads/release/python-3132/
 
 # Como rodar
 Clonar o repositório
